@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=waterdrag0n)](https://solved.ac/waterdrag0n)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=waterdrag0n)](https://solved.ac/waterdrag0n)
+[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=waterdrag0n)](https://solved.ac/waterdrag0n)
