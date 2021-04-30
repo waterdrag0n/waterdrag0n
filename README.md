@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=waterdrag0n&show_icons=true)
 -->
 
-![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=waterdrag0n&show_icons=true)
+
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=sean0422)](https://solved.ac/sean0422)
