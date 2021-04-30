@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=waterdrag0n)](https://solved.ac/waterdrag0n)
