@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - ![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=waterdrag0n&show_icons=true)
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waterdrag0n)](https://github.com/waterdrag0n/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waterdrag0n)](https://github.com/waterdrag0n/github-readme-stats)<br>
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=sean0422)](https://solved.ac/sean0422)
