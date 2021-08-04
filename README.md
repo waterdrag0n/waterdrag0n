@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - 
 -->
 
-
-![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=waterdrag0n&show_icons=true)
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sean0422">
+<!-- ![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=waterdrag0n&show_icons=true) -->
