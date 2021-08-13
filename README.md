@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 <!-- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sychang0422@gmail.com)](mailto:sychang0422@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/water_drag0n/) -->
 
-
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sean0422">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sean0422">
+<!-- <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sean0422"> -->
 <!-- ![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=waterdrag0n&show_icons=true) -->
