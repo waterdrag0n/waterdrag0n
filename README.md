@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 ## Su Yong Chang
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSEOMINJUUU%2Fhit-counter&count_bg=%23FF4A4A&title_bg=%23666565&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sychang0422@gmail.com)](mailto:sychang0422@gmail.com)
-[![Gmail Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/water_drag0n/)
+<!-- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sychang0422@gmail.com)](mailto:sychang0422@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/water_drag0n/) -->
 
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sean0422">
